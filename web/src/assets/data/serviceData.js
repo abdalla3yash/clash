@@ -7,19 +7,19 @@ const serviceData = [
   },
   {
     icon: "ri-refresh-line",
-    title: "Devoluções Fáceis",
+    title: "Easy Returns",
     subtitle: "Lorem ipsum dolor sit amet.",
     bg: "#ceebe9",
   },
   {
     icon: "ri-secure-payment-line",
-    title: "Pagamento Seguro",
+    title: "Secure Payment",
     subtitle: "Lorem ipsum dolor sit amet.",
     bg: "#e2f2b2",
   },
   {
     icon: "ri-exchange-dollar-line",
-    title: " Garantia de Devolução",
+    title: " Money Back Guarantee",
     subtitle: "Lorem ipsum dolor sit amet.",
     bg: "#cca9dd",
   },

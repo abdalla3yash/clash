@@ -90,7 +90,7 @@ const Header = () => {
                         <div className="logo">
                             <img src={logo} alt="logo" />
                             <div>
-                                <h1><span className="logo_new">e</span>Shop</h1>
+                                <h1><span className="logo_new">C</span>lash</h1>
                             </div>
                         </div>
 
@@ -127,7 +127,7 @@ const Header = () => {
 
                                 <div className="profile_actions" ref={profileActionRef} onClick={toggleProfileActions}>
                                     {currentUser ? (<span className="d-flex align-items-center justify-content-center"
-                                        onClick={logout}>Sair</span>) :
+                                        onClick={logout}>Log out</span>) :
                                         (<div className="signin_signup">
                                             <Link to="/login">Login</Link>
                                             <Link to="/signup">Registrar</Link>

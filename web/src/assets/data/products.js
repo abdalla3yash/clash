@@ -231,7 +231,7 @@ const products = [
 
   {
     id: "08",
-    productName: "Baltsar Chair",
+    productName: "Balthazar Chair",
     imgUrl: productImg08,
     category: "chair",
     price: 89,
