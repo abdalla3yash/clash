@@ -51,7 +51,7 @@ const Home = () => {
           <Row>
             <Col lg="6" md="6">
               <div className="hero_content">
-                <p className="hero_subtitle">trending products{year}</p>
+                <p className="hero_subtitle">trending products {year}</p>
                 <h2>Make your interior more minimalist and modern </h2>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                   Ab sapiente illo ipsa expedita eius nam temporibus. Minus
