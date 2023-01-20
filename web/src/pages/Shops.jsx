@@ -15,7 +15,7 @@ const Shops = () => {
   }, [])
 
   return (
-    <Helmet title="Lojas">
+    <Helmet title="Shops">
       <CommonSection title="Discover our Stores" />
       <section className="hero_section">
         <Container>

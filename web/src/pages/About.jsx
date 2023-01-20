@@ -16,8 +16,8 @@ const About = () => {
   }, [])
 
   return (
-    <Helmet title="Sobre">
-      <CommonSection title="Sobre" />
+    <Helmet title="About">
+      <CommonSection title="About" />
       <section className="hero_section">
         <Container>
           <Row>
